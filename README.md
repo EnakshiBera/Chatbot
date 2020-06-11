@@ -1,5 +1,7 @@
 # Pybot- A Chatbot for answering Python queries.
+Pybot will give you answer's regarding any of your python related doubts/question's with the help of both text reply as well as text-to-speech medium .
 This is retrieval based chatbot.
+The GUI is created using tkinter with multiple themes & fonts to play around.
 
 # What is a Chatbot?
 Chatbot is a computer program that stimulates and processes human conversation (either written or spoken), allowing humans to interact with digital devices as if they were communicating with a real person. They are also known as digital assistants that understand human capabilities. Bots interpret and process the user requests and give prompt relevant answers. 
